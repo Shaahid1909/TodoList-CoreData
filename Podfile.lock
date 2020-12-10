@@ -1,0 +1,28 @@
+PODS:
+  - CGMath (1.0.2)
+  - FloatingTabBarController (1.0.0):
+    - CGMath
+  - FSCalendar (2.8.1)
+  - KCFloatingActionButton (2.2.0)
+
+DEPENDENCIES:
+  - FloatingTabBarController
+  - FSCalendar
+  - KCFloatingActionButton
+
+SPEC REPOS:
+  trunk:
+    - CGMath
+    - FloatingTabBarController
+    - FSCalendar
+    - KCFloatingActionButton
+
+SPEC CHECKSUMS:
+  CGMath: 41d118f6890c0e1a7aa10bd262f6f199590f72aa
+  FloatingTabBarController: 2e5aeb6a5e28cd907c10f172437e48788a214f31
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  KCFloatingActionButton: 8c71fa25774e422c8d407f82b4b27809d0cd5233
+
+PODFILE CHECKSUM: 4e0bb442de956c4becec775be10b5f151a1d25f9
+
+COCOAPODS: 1.9.3
